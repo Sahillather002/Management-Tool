@@ -1,7 +1,3 @@
-Certainly! Below is an updated version of the README file that includes a section for application screenshots. You can replace the placeholders with actual screenshots once you've taken them.
-
----
-
 # Candidate Management System API Documentation
 
 ## Screenshots
