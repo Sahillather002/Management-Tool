@@ -27,6 +27,22 @@ export const stages_options = [
   }
 ];
 
+
+export const status_options = [
+  {
+    value: "applied",
+    label: "Applied",
+  },
+  {
+    value: "screening",
+    label: "Screening",
+  },
+  {
+    value: "rejected",
+    label: "Rejected",
+  }
+];
+
 export const label_options = [
   {
     value: "bug",
