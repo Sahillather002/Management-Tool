@@ -111,9 +111,11 @@ You can access the API at `http://127.0.0.1:8000`.
    cd candidate-management-frontend
    ```
 
-2. Install Axios for making API requests:
+2. Install requried packages :
    ```bash
-   npm install axios
+   npm install 
+   or
+   yarn 
    ```
 
 ### Making API Calls
